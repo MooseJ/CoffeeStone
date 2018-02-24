@@ -1,0 +1,8 @@
+{
+  "name": "CoffeeStone",
+  "app_id": "048dba4e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
